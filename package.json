@@ -1,0 +1,26 @@
+{
+  "name": "sweetprojects-api",
+  "version": "1.0.0",
+  "description": "Get access to project settings in your own atom package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LennyN95/sweetprojects-api.git"
+  },
+  "keywords": [
+    "sweetprojects",
+    "atom",
+    "project",
+    "manager",
+    "api"
+  ],
+  "author": "Leonard Nürnberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LennyN95/sweetprojects-api/issues"
+  },
+  "homepage": "https://github.com/LennyN95/sweetprojects-api#readme"
+}
